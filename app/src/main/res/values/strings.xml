@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GrandTaskApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="my_albums">My Albums</string>
+    <string name="search_for_images">Search for Images</string>
+</resources>
